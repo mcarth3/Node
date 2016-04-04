@@ -1,0 +1,45 @@
+html { 
+  background: url(images.jpe) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+	 
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    font-size: 18px;
+    left: 35%;
+    top: 17%;
+    width: 100%;
+	font-size: 40px;
+}
+
+#button {
+    width: 8em;  height: 2em;
+	font-size:14px;
+	
+}
+#button {
+    width: 8em;  height: 2.5em;
+	font-size:14px;
+	
+}
+#cityfield {
+    width: 8em;  height: 2.5em;
+	font-size:14px;
+	
+}

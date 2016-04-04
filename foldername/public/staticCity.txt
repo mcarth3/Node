@@ -1,0 +1,10 @@
+[
+{"city":"Provo"},
+{"city":"Lehi"},
+{"city":"Pleasant Grove"},
+{"city":"Lindon"},
+{"city":"American Fork"},
+{"city":"Springville"},
+{"city":"Payson"},
+{"city":"Spanish Fork"}
+]
